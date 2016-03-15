@@ -44,13 +44,13 @@ aside li{
 	margin-top: 15px;
 	margin-left: -20px;
 }
-li a{
+	li a{
 	color: #c0c0c0;
 	text-decoration: none;
 	font-size: 17px;
 	margin-top: 10px;
 }
-a i{
+		a i{
 	font-size: 20px;
 	margin-right: 10px;
 }
@@ -87,7 +87,7 @@ section#main-content {
 }
 /* Caja "Candy Kingdom news" */
 
-/* /main-content*/
+/* dashboard.html   /main-content */
 .box1 span{
 	font-size: 40px;
 	color: gray;
@@ -101,6 +101,7 @@ section#main-content {
 	text-align: left;
 	padding-left: 40px;
 }
+
 /* /dashboard.html*/ 
 
 
