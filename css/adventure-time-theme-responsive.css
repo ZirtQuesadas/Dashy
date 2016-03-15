@@ -1,0 +1,23 @@
+
+/*login.html*/
+/*MEDIA QUERIES NO UTILIZADOS*/
+/*@media (min-width: 1200px){
+#login-page .container {
+    width: 600px;
+    margin-top: 200px;
+}
+@media (min-width: 992px){
+#login-page .container {
+    width: 496px;
+    margin-top: 150px;
+}
+*/
+
+@media (min-width: 768px){
+#login-page .container {
+    width: 334px;
+    margin-top: 100px;
+}
+/*FIN login.html*/
+
+/*Inserta tu Codigo Responsive*/
